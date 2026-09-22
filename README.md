@@ -10,10 +10,11 @@
 
   ---
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/abelardoogr">
     <img src="https://img.shields.io/badge/Status-Student-blue?style=for-the-badge&logo=github" alt="Status" />
   </a>
-  <a href="mailto:your_email@example.com">
+  <!-- INSERTA TU EMAIL REAL AQUÍ ABAJO -->
+  <a href="mailto:tu_correo_real@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Email_Me-teal?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 
@@ -27,7 +28,7 @@ I am a passionate technology student based in **Spain**. Currently, I am in my *
 
 My journey began in IT Infrastructure, where I earned my **degree in Microcomputer Systems and Networks**. This background gives me a unique perspective on development, allowing me not only to write code but to understand the underlying systems, servers, and networks that power it.
 
-* 🌱 I’m currently improving my skills in **Web Development** and **Python**.
+* 🌱 I’m currently improving my skills in **Web Development**, focusing on **Java**, **JavaScript**, and **Python**.
 * 💻 I have professional knowledge of **Hardware, Operating Systems, and Local Networks**.
 * 🗣️ **Languages:** Spanish (Native), English (Intermediate/B1).
 
@@ -37,9 +38,12 @@ My journey began in IT Infrastructure, where I earned my **degree in Microcomput
 
 ### **Development**
 <div align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <!-- AÑADE AQUÍ LOS LENGUAJES O TECNOLOGÍAS DEL "Y DEMÁS" CUANDO LOS DEFINAS -->
 </div>
 
 ### **Systems & Networking**
@@ -61,8 +65,8 @@ My journey began in IT Infrastructure, where I earned my **degree in Microcomput
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abelardoogr&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelardoogr&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 ---
