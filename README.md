@@ -21,11 +21,12 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate technology student based in **Spain**. Currently, I am in my **first year of the Higher Degree in Web Application Development (DAW)**.
+I am a passionate technology student based in **Spain**. Currently, I am in my **second year of the Higher Degree in Web Application Development (DAW)**.
 
 My journey began in IT Infrastructure, where I earned my **degree in Microcomputer Systems and Networks**. This background gives me a unique perspective on development, allowing me not only to write code but to understand the underlying systems, servers, and networks that power it.
 
 * 🌱 I’m currently improving my skills in **Web Development**, focusing on **Java**, **JavaScript**, and **Python**.
+* 🛡️ **Future Focus:** I have a strong interest in **Cybersecurity**. My goal is to specialize in this field, leveraging my systems and networking background to build and secure robust web applications.
 * 💻 I have professional knowledge of **Hardware, Operating Systems, and Local Networks**.
 * 🗣️ **Languages:** Spanish (Native), English (Intermediate/B1), German (Currently learning).
 
@@ -60,7 +61,7 @@ My journey began in IT Infrastructure, where I earned my **degree in Microcomput
   <a href="https://www.microsoft.com/windows/">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   </a>
-  <img src="https://img.shields.io/badge/Network-Administration-important?style=for-the-badge" alt="Networks" />
+  <img src="https://img.shields.io/badge/Network%20Administration-FF4500?style=for-the-badge&labelColor=FF4500&color=FF4500" alt="Networks" />
 </div>
 
 ### **Tools**
@@ -81,12 +82,6 @@ My journey began in IT Infrastructure, where I earned my **degree in Microcomput
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abelardoogr&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github.readme-stats.vercel.app/api?username=abelardoogr&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelardoogr&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
-
----
-
-<div align="center">
-  <p>Thanks for visiting my profile!</p>
 </div>
