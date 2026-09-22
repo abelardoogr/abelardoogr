@@ -53,6 +53,19 @@ My journey began in IT Infrastructure, where I earned my **degree in Microcomput
   </a>
 </div>
 
+### **Databases & Data Formats**
+<div align="left">
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+  <a href="https://cassandra.apache.org/">
+    <img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="Cassandra" />
+  </a>
+  <a href="https://www.w3.org/XML/">
+    <img src="https://img.shields.io/badge/xml-%2300599C.svg?style=for-the-badge&logo=w3c&logoColor=white" alt="XML" />
+  </a>
+</div>
+
 ### **Systems & Networking**
 <div align="left">
   <a href="https://www.kernel.org/">
@@ -82,6 +95,6 @@ My journey began in IT Infrastructure, where I earned my **degree in Microcomput
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github.readme-stats.vercel.app/api?username=abelardoogr&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abelardoogr&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelardoogr&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
