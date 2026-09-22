@@ -13,7 +13,7 @@
   <a href="https://github.com/abelardoogr">
     <img src="https://img.shields.io/badge/Status-Student-blue?style=for-the-badge&logo=github" alt="Status" />
   </a>
-  <a href="mailto:abelardogutiruiz@gmail.com">
+  <a href="abelardogutiruiz@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Email_Me-teal?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 
