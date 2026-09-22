@@ -82,6 +82,12 @@ My journey began in IT Infrastructure, where I earned my **degree in Microcomput
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   </a>
+  <a href="https://netbeans.apache.org/">
+    <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans&logoColor=white" alt="NetBeans" />
+  </a>
+  <a href="https://docs.python.org/3/library/idle.html">
+    <img src="https://img.shields.io/badge/Python%20IDLE-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python IDLE" />
+  </a>
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
