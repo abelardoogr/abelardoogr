@@ -30,7 +30,7 @@ My journey began in IT Infrastructure, where I earned my **degree in Microcomput
 
 * 🌱 I’m currently improving my skills in **Web Development**, focusing on **Java**, **JavaScript**, and **Python**.
 * 💻 I have professional knowledge of **Hardware, Operating Systems, and Local Networks**.
-* 🗣️ **Languages:** Spanish (Native), English (Intermediate/B1).
+* 🗣️ **Languages:** Spanish (Native), English (Intermediate/B1), German (Currently learning).
 
 ---
 
@@ -43,7 +43,6 @@ My journey began in IT Infrastructure, where I earned my **degree in Microcomput
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <!-- AÑADE AQUÍ LOS LENGUAJES O TECNOLOGÍAS DEL "Y DEMÁS" CUANDO LOS DEFINAS -->
 </div>
 
 ### **Systems & Networking**
