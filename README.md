@@ -25,7 +25,7 @@ I am a passionate technology student based in **Spain**. Currently, I am in my *
 
 My journey began in IT Infrastructure, where I earned my **degree in Microcomputer Systems and Networks**. This background gives me a unique perspective on development, allowing me not only to write code but to understand the underlying systems, servers, and networks that power it.
 
-* 🌱 I’m currently improving my skills in **Web Development**, focusing on **Java**, **JavaScript**, and **Python**.
+* 🌱 I’m currently improving my skills in **Web Development**, focusing on **Java**, **JavaScript**, **Python**, and **PHP**.
 * 🛡️ **Future Focus:** I have a strong interest in **Cybersecurity**. My goal is to specialize in this field, leveraging my systems and networking background to build and secure robust web applications.
 * 💻 I have professional knowledge of **Hardware, Operating Systems, and Local Networks**.
 * 🗣️ **Languages:** Spanish (Native), English (Intermediate/B1), German (Currently learning).
@@ -38,6 +38,9 @@ My journey began in IT Infrastructure, where I earned my **degree in Microcomput
 <div align="left">
   <a href="https://dev.java/">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  </a>
+  <a href="https://www.php.net/">
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
